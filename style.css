@@ -81,7 +81,7 @@ margin: 0 80px ;
 
 #buscar button {
   padding: 10px;
-  background-color: #333;
+  background-color: #e16666;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -146,6 +146,7 @@ margin: 0 80px ;
   height: auto;
   margin-bottom: 15px;
   border-radius: 5px;
+
 }
 
 .produto h3 {
